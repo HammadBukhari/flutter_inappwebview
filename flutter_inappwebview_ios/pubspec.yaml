@@ -21,7 +21,7 @@ dependencies:
   flutter_inappwebview_platform_interface: 
    git: 
       url: https://github.com/HammadBukhari/flutter_inappwebview
-      ref: 95148599eaadf9df386cd91571e2c8c98df22254
+      ref: fix_keepalive_dispose_android_nullptr
       path: flutter_inappwebview_platform_interface
 
 dev_dependencies:
